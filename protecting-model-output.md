@@ -26,6 +26,9 @@ Key aspects of interpretability include:
 - Making the internal workings of AI models more transparent
 - Enabling humans to understand and audit AI systems
 
+Manually Added Links (David K)
+- [Anthropic Blog](https://www.anthropic.com/research/mapping-mind-language-model)
+
 3. Guardrails:
 
 Guardrails in AI refer to the safety measures, constraints, and boundaries put in place to prevent AI systems from engaging in harmful, unethical, or unintended behaviors. These are typically implemented as part of the system's design or training process.
