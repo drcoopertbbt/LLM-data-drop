@@ -42,3 +42,12 @@ While these concepts are related and often work together to create safer and mor
 - Guardrails are specific safety measures implemented to prevent undesired behaviors.
 
 In practice, these concepts often overlap and complement each other. For example, interpretability can help in verifying model alignment, while guardrails can be seen as a practical implementation of alignment principles. Together, they contribute to the development of AI systems that are not only powerful and effective but also safe, trustworthy, and beneficial to humanity.
+
+
+## Question
+
+consolidate to 3 sentences
+
+### Answer
+
+Model alignment focuses on ensuring AI systems' goals and behaviors align with human values and intentions. Interpretability aims to make AI decision-making processes transparent and understandable to humans, fostering trust and enabling verification. Guardrails are specific safety measures and constraints implemented to prevent AI systems from engaging in harmful or unintended behaviors, acting as a practical safeguard in AI development and deployment.
