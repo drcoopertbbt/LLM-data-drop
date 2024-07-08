@@ -50,4 +50,4 @@ consolidate to 3 sentences
 
 ### Answer
 
-Model alignment focuses on ensuring AI systems' goals and behaviors align with human values and intentions. Interpretability aims to make AI decision-making processes transparent and understandable to humans, fostering trust and enabling verification. Guardrails are specific safety measures and constraints implemented to prevent AI systems from engaging in harmful or unintended behaviors, acting as a practical safeguard in AI development and deployment.
+Model **alignment** focuses on ensuring AI systems' goals and behaviors align with human values and intentions. **Interpretability** aims to make AI decision-making processes transparent and understandable to humans, fostering trust and enabling verification. **Guardrails** are specific safety measures and constraints implemented to prevent AI systems from engaging in harmful or unintended behaviors, acting as a practical safeguard in AI development and deployment.
